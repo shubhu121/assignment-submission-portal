@@ -62,7 +62,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/assignment-submission-portal.git
+   git clone https://github.com/shubhu121/assignment-submission-portal.git
    cd assignment-submission-portal
    ```
 
